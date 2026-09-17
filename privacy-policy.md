@@ -91,8 +91,7 @@ We retain your personal information for as long as your account remains active o
 
 You have the right to delete your account and associated personal data at any time.
 
-- **How to request deletion:** Email us at **admin@biglickenterprises.com** with the subject line "Account Deletion Request," using the email address associated with your account. We will verify your identity and process your request within 30 days.
-- **In-app deletion:** We plan to add an in-app account deletion option in a future update. Until then, deletion requests must be submitted by email as described above.
+- **In-app deletion:** You can delete your account and associated data at any time from within the application. The deletion process takes up to 30 days, and logging in during this period will cancel the deletion request. After 30 days, your account and associated data will be permanently deleted.
 - **What gets deleted:** Your account profile, personal information (name, email, phone number), asset data, photos, and usage data associated with your account will be permanently deleted.
 - **What may be retained:** We may retain limited information where required for legal, tax, fraud-prevention, or dispute-resolution purposes, for as long as necessary to satisfy those obligations, after which it will be deleted or anonymized.
 
