@@ -14,11 +14,6 @@ You can request deletion of your Maintenance Genie account and all associated da
 3. Tap **Delete Account**
 4. Confirm the deletion when prompted
 
-### Option 2: Request deletion by email
-If you're unable to access the app, send an email to **admin@biglickenterprises.com** with:
-- Subject line: **"Account Deletion Request"**
-- The email address associated with your account
-
 We will verify your identity and process your request within **30 days**.
 
 ---
