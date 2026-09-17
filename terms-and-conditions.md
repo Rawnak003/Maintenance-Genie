@@ -26,7 +26,7 @@ You must be at least 13 years old (or the minimum age of digital consent in your
 
 ## 3. Account Deletion
 
-You may request deletion of your account and associated data at any time by emailing **admin@biglickenterprises.com**. We will process verified deletion requests within 30 days. An in-app account deletion option is planned for a future update. See our Privacy Policy for details on what data is deleted and what may be retained for legal purposes.
+You may request deletion of your account and associated data at any time by acount deletion feature within the application. We will process verified deletion requests within 30 days. See our Privacy Policy for details on what data is deleted and what may be retained for legal purposes.
 
 ---
 
@@ -38,7 +38,7 @@ Maintenance Genie allows users to document, track, and manage maintenance-relate
 
 ## 5. Premium Features and Subscriptions
 
-Certain features — such as service provider suggestions and community forum content — are available only through a paid subscription. Payment is handled securely by our third-party payment processor and/or your app store account (Google Play or Apple App Store). Subscriptions may renew automatically unless cancelled before the renewal date through your app store account settings. Fees are non-refundable except where required by applicable law.
+Certain features such as service provider suggestions and community forum content are available only through a paid subscription. Payment is handled securely by our third-party payment processor and/or your app store account (Google Play or Apple App Store). Subscriptions may renew automatically unless cancelled before the renewal date through your app store account settings. Fees are non-refundable except where required by applicable law.
 
 ---
 
