@@ -26,7 +26,7 @@ You must be at least 13 years old (or the minimum age of digital consent in your
 
 ## 3. Account Deletion
 
-You may request deletion of your account and associated data at any time by acount deletion feature within the application. We will process verified deletion requests within 30 days. See our Privacy Policy for details on what data is deleted and what may be retained for legal purposes.
+You may request deletion of your account and associated data at any time by account deletion feature within the application. We will process verified deletion requests within 30 days. See our Privacy Policy for details on what data is deleted and what may be retained for legal purposes.
 
 ---
 
