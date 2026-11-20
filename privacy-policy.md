@@ -1,7 +1,7 @@
 # Privacy Policy for Maintenance Genie
 
 **Effective Date:** September 18, 2026
-**Last Updated:** September 18, 2026
+**Last Updated:** November 20, 2026
 
 Big Lick Enterprises ("we," "us," or "our") operates the Maintenance Genie mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and protect information when you use our App.
 
@@ -13,21 +13,25 @@ By downloading, accessing, or using Maintenance Genie, you agree to the collecti
 
 ### 1.1 Information You Provide Directly
 
-- **Personal Info:** Name, email address, and phone number, collected when you sign up for an account.
+- **Personal Info:** Name, email address, and address, collected when you sign up for an account or set up your profile.
+- **Profile Picture:** An optional image you choose to add to your profile.
 - **Asset Data:** Vehicle, home, or equipment details you enter into the App.
-- **Photos:** Images you capture using your device's camera or select from your photo library, such as when documenting a maintenance issue.
-- **User content:** Any text or notes you submit within the App to track your own maintenance records.
+- **Photos:** Images you capture using your device's camera or select from your photo library, such as asset photos, maintenance receipts, or photos documenting a maintenance issue.
+- **User content:** Any text, notes, tasks, or maintenance records you submit within the App to track your own maintenance.
 
 ### 1.2 Information Collected Automatically
 
 - **Usage Data:** App interactions and preferences, collected to improve your experience.
 - **Device and technical data:** Basic technical information such as device type and operating system version.
 - **Push notification tokens:** A unique device identifier used by Firebase Cloud Messaging to deliver reminders and alerts.
+- **Notification history:** The reminders and alerts we send you are stored so you can view them in the App's notification screen.
+- **Subscription status:** Whether you have an active premium subscription, together with its plan and expiry date, received from our subscription provider and the app store.
 
 ### 1.3 Device Permissions We Request
 
-- **Camera** — to let you take photos directly within the App, such as for maintenance reports.
+- **Camera** — to let you take photos directly within the App, such as for asset photos or maintenance receipts.
 - **Photos, media, and storage access** — to let you select existing photos from your device and save app-related files.
+- **Notifications** — to show you maintenance reminders and alerts on your device.
 - **Internet access** — to sync your data, authenticate your account, and deliver notifications.
 
 We only request permissions necessary for the App's core functionality, and you can decline or later revoke these permissions through your device settings, though doing so may limit certain features.
@@ -42,7 +46,9 @@ We use the information we collect to:
 - Authenticate you and keep your account secure
 - Send you reminders and notifications
 - Improve features and personalize your experience
-- Offer relevant service provider suggestions based on your asset and usage data
+- Generate AI-powered maintenance suggestions based on your asset and usage data
+- Use your address to help our AI suggest nearby service providers, which may direct you to an external map or search link
+- Manage your subscription and unlock premium features
 - Provide customer support and app updates
 - Comply with legal obligations
 
@@ -52,11 +58,19 @@ We do **not** sell your personal information to third parties.
 
 ## 3. Premium Subscriptions
 
-Certain features, such as service provider suggestions and community forum content, are available through a paid subscription. Payment information is collected and processed securely by our third-party payment processor and/or the app store you subscribed through (Google Play or the Apple App Store). We do not store your full payment card details.
+Certain features, such as service provider suggestions and community forum content, are available through a paid subscription. Subscription and purchase management is handled by our third-party provider, RevenueCat, together with the app store you subscribed through (Google Play or the Apple App Store). We receive your subscription status so that we can unlock premium features for you. Payment information is collected and processed by the app store, and we do not store your full payment card details.
 
 ---
 
-## 4. Community Forum Content
+## 4. AI-Generated Suggestions
+
+The App uses AI technology to generate maintenance suggestions, such as maintenance tasks and service intervals, and, where relevant, a link to nearby service providers. To do this, the details of your asset and, for service provider suggestions, your address may be processed by our AI service provider.
+
+AI-generated suggestions may contain inaccuracies and should not be relied upon as professional advice.
+
+---
+
+## 5. Community Forum Content
 
 Maintenance Genie does **not** allow users to post or publish content to a forum through the App. Instead, the App displays maintenance-related discussions and posts that are sourced from third-party public forums and platforms, then collected, curated, and summarized using AI technology for your convenience.
 
@@ -64,74 +78,77 @@ This third-party content is not created by Maintenance Genie, Big Lick Enterpris
 
 ---
 
-## 5. Third-Party Services
+## 6. Third-Party Services
 
 Maintenance Genie uses the following third-party services, which may collect information used to identify you:
 
 - **Firebase Authentication** (Google LLC) — for account creation and login.
 - **Firebase Cloud Messaging** (Google LLC) — for delivering push notifications.
+- **RevenueCat** — for managing subscriptions and purchases.
+- **Our AI service provider** — for generating maintenance suggestions and, where relevant, a link to nearby service providers based on your address.
 
-These services have their own privacy policies governing their use of information. We encourage you to review Google's Privacy Policy for details on how Firebase/Google handles data.
-
----
-
-## 6. Data Storage and Security
-
-Your account data is stored securely using Firebase's infrastructure, which employs industry-standard security measures, including encryption in transit. All sensitive data is encrypted and access-controlled. While we take reasonable steps to protect your information, no method of electronic transmission or storage is 100% secure, and we cannot guarantee absolute security.
+These services have their own privacy policies governing their use of information. We encourage you to review them, including Google's Privacy Policy for details on how Firebase/Google handles data.
 
 ---
 
-## 7. Data Retention
+## 7. Data Storage and Security
 
-We retain your personal information for as long as your account remains active or as needed to provide you services, unless you request deletion as described below.
+Your account data is stored securely by us and our service providers, which employ industry-standard security measures, including encryption in transit. All sensitive data is encrypted and access-controlled. While we take reasonable steps to protect your information, no method of electronic transmission or storage is 100% secure, and we cannot guarantee absolute security.
 
 ---
 
-## 8. Account Deletion
+## 8. Data Retention
+
+We retain your personal information for as long as your account remains active or as needed to provide you services, unless you delete your account as described below.
+
+---
+
+## 9. Account Deletion
 
 You have the right to delete your account and associated personal data at any time.
 
-- **In-app deletion:** You can delete your account and associated data at any time from within the application. The deletion process takes up to 30 days, and logging in during this period will cancel the deletion request. After 30 days, your account and associated data will be permanently deleted.
-- **What gets deleted:** Your account profile, personal information (name, email, phone number), asset data, photos, and usage data associated with your account will be permanently deleted.
+- **In-app deletion:** You can delete your account and associated data at any time from within the application. The deletion process takes up to 30 days, and logging in during this period will cancel the deletion request and restore your account. After 30 days, your account and associated data will be permanently deleted.
+- **What gets deleted:** Your account profile, personal information (name, email, address), profile picture, asset data, tasks, maintenance history, photos and receipts, notification history, and usage data associated with your account will be permanently deleted.
 - **What may be retained:** We may retain limited information where required for legal, tax, fraud-prevention, or dispute-resolution purposes, for as long as necessary to satisfy those obligations, after which it will be deleted or anonymized.
+- **Subscriptions:** Deleting your account does not cancel an active subscription. To avoid future charges, cancel your subscription through your app store account settings (Google Play or the Apple App Store).
 
 ---
 
-## 9. Your Rights and Choices
+## 10. Your Rights and Choices
 
 Depending on your location, you may have the right to:
 
 - Access the personal information we hold about you
 - Request correction of inaccurate data
-- Request deletion of your account and data (see Section 8)
+- Delete your account and data from within the App (see Section 9)
 - Withdraw consent for data processing (which may limit App functionality)
 - Opt out of push notifications via your device settings
 
-To exercise any of these rights, contact us at **admin@biglickenterprises.com**.
+To exercise your rights of access, correction, or withdrawal of consent, contact us at **admin@biglickenterprises.com**. Account deletion is available only through the App, as described in Section 9.
 
 ---
 
-## 10. Children's Privacy
+## 11. Children's Privacy
 
 Maintenance Genie is not directed at children under the age of 13 (or the applicable minimum age in your jurisdiction), and we do not knowingly collect personal information from children. If we become aware that a child has provided us with personal information, we will take steps to delete such information promptly.
 
 ---
 
-## 11. International Data Transfers
+## 12. International Data Transfers
 
-Your information may be transferred to, and processed in, countries other than your own, including the United States, where our third-party service providers (such as Google/Firebase) operate. By using the App, you consent to such transfers.
+Your information may be transferred to, and processed in, countries other than your own, including the United States, where our third-party service providers (such as Google/Firebase and RevenueCat) operate. By using the App, you consent to such transfers.
 
 ---
 
-## 12. Changes to This Privacy Policy
+## 13. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. We will notify you of any material changes by updating the "Last Updated" date at the top of this policy and, where appropriate, through an in-app notice. Continued use of the App after changes take effect constitutes acceptance of the revised policy.
 
 ---
 
-## 13. Contact Us
+## 14. Contact Us
 
-If you have questions, concerns, or requests regarding this Privacy Policy, your personal data, or account deletion, please contact:
+If you have questions, concerns, or requests regarding this Privacy Policy, or your personal data, please contact:
 
 **Big Lick Enterprises**
 Email: **admin@biglickenterprises.com**
