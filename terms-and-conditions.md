@@ -1,7 +1,7 @@
 # Terms and Conditions for Maintenance Genie
 
 **Effective Date:** September 18, 2026
-**Last Updated:** September 18, 2026
+**Last Updated:** November 20, 2026
 
 Please read these Terms and Conditions ("Terms") carefully before using the Maintenance Genie mobile application (the "App"), operated by Big Lick Enterprises ("we," "us," or "our").
 
@@ -17,7 +17,7 @@ You must be at least 13 years old (or the minimum age of digital consent in your
 
 ## 2. User Accounts
 
-- You must provide accurate information during registration, including your name, email, and phone number.
+- You must provide accurate information during registration, including your name, email, and address.
 - You are responsible for keeping your login credentials secure and for all activity that occurs under your account.
 - You agree not to share your account with others.
 - You must notify us immediately of any unauthorized use of your account.
@@ -26,19 +26,19 @@ You must be at least 13 years old (or the minimum age of digital consent in your
 
 ## 3. Account Deletion
 
-You may request deletion of your account and associated data at any time by account deletion feature within the application. We will process verified deletion requests within 30 days. See our Privacy Policy for details on what data is deleted and what may be retained for legal purposes.
+You may delete your account and associated data at any time by using the account deletion feature within the application (Settings → Delete Account). Deletion takes up to 30 days to complete, and logging in during this period cancels the deletion request and restores your account. After 30 days, your account and associated data are permanently deleted. See our Privacy Policy for details on what data is deleted and what may be retained for legal purposes.
 
 ---
 
 ## 4. Description of Service
 
-Maintenance Genie allows users to document, track, and manage maintenance-related tasks for vehicles, homes, and equipment, including the ability to capture and upload photos, receive reminders, view curated third-party maintenance discussions, and optionally connect with service providers. Features and functionality may be updated, modified, or discontinued at our discretion, with or without notice.
+Maintenance Genie allows users to document, track, and manage maintenance-related tasks for vehicles, homes, and equipment, including the ability to capture and upload photos and receipts, receive reminders, receive AI-generated maintenance suggestions, view curated third-party maintenance discussions, and get AI-suggested nearby service providers based on your address. Features and functionality may be updated, modified, or discontinued at our discretion, with or without notice.
 
 ---
 
 ## 5. Premium Features and Subscriptions
 
-Certain features such as service provider suggestions and community forum content are available only through a paid subscription. Payment is handled securely by our third-party payment processor and/or your app store account (Google Play or Apple App Store). Subscriptions may renew automatically unless cancelled before the renewal date through your app store account settings. Fees are non-refundable except where required by applicable law.
+Certain features, such as AI-generated maintenance tasks, receipt attachments, service provider suggestions, and community forum content, are available only through a paid subscription. Subscription and purchase management is handled by our third-party provider, RevenueCat, together with your app store account (Google Play or Apple App Store). Subscriptions may renew automatically unless cancelled before the renewal date through your app store account settings. Deleting your account does not cancel your subscription. Fees are non-refundable except where required by applicable law.
 
 ---
 
@@ -53,15 +53,23 @@ The App does not allow users to publish or post their own content to a forum. In
 
 ---
 
-## 7. User Content
+## 7. AI-Generated Suggestions and Service Providers
 
-- "User Content" refers to photos, text, or notes you submit through the App for your own maintenance record-keeping (this does not include forum content, which you cannot post).
+- Maintenance tasks, service intervals, and other suggestions in the App are generated using AI technology based on the details you enter, and may be incomplete or inaccurate.
+- Suggested service providers are generated based on your address and may direct you to an external map or search link. We do not endorse, verify, or guarantee any service provider, and we are not responsible for the services they provide or for your dealings with them.
+- You are responsible for deciding whether to act on any suggestion.
+
+---
+
+## 8. User Content
+
+- "User Content" refers to photos, text, receipts, or notes you submit through the App for your own maintenance record-keeping (this does not include forum content, which you cannot post).
 - You retain ownership of your User Content. By submitting it, you grant us a limited, non-exclusive, royalty-free license to store, process, and display that content solely for the purpose of providing and operating the App.
 - You are solely responsible for the User Content you submit and confirm you have the necessary rights to share it.
 
 ---
 
-## 8. Acceptable Use
+## 9. Acceptable Use
 
 You agree not to:
 
@@ -75,51 +83,51 @@ We reserve the right to suspend or terminate accounts that violate these provisi
 
 ---
 
-## 9. Intellectual Property
+## 10. Intellectual Property
 
 The App, including its design, features, graphics, and underlying code, is owned by Big Lick Enterprises and protected by applicable intellectual property laws. Except for your own User Content, nothing in these Terms grants you any rights to our trademarks, logos, or proprietary materials. Third-party forum content displayed in the App remains the property of its original authors and platforms.
 
 ---
 
-## 10. Third-Party Services
+## 11. Third-Party Services
 
-The App relies on third-party services, including Firebase (provided by Google LLC), for authentication and notifications, third-party platforms as sources for aggregated forum content, and third-party payment processors for subscriptions. Your use of the App is also subject to the applicable terms of these third-party providers.
+The App relies on third-party services, including Firebase (provided by Google LLC) for authentication and notifications, RevenueCat and your app store for subscriptions, an AI service provider for suggestions, and third-party platforms as sources for aggregated forum content. Your use of the App is also subject to the applicable terms of these third-party providers.
 
 ---
 
-## 11. Disclaimers
+## 12. Disclaimers
 
-We do not guarantee that maintenance suggestions, service intervals, or third-party forum content displayed by the App will be complete or accurate. Always consult your owner's manual or a certified professional when needed.
+We do not guarantee that AI-generated maintenance suggestions, service intervals, suggested service providers, or third-party forum content displayed by the App will be complete, accurate, or appropriate for your situation. Always consult your owner's manual or a certified professional when needed.
 
 THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. WE DO NOT GUARANTEE THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, OR SECURE.
 
 ---
 
-## 12. Limitation of Liability
+## 13. Limitation of Liability
 
 TO THE FULLEST EXTENT PERMITTED BY LAW, BIG LICK ENTERPRISES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF DATA, PROFITS, OR REVENUE, ARISING FROM YOUR USE OF OR INABILITY TO USE THE APP, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 ---
 
-## 13. Termination
+## 14. Termination
 
 We may suspend or terminate your access to the App at any time, with or without notice, for conduct that we believe violates these Terms or is harmful to other users, us, or third parties. You may also delete your account at any time as described in Section 3.
 
 ---
 
-## 14. Changes to the App and Terms
+## 15. Changes to the App and Terms
 
 We reserve the right to modify or discontinue the App, in whole or in part, at any time. We may also update these Terms periodically. Material changes will be reflected by updating the "Last Updated" date above, and continued use of the App after such changes constitutes your acceptance of the revised Terms.
 
 ---
 
-## 15. Governing Law
+## 16. Governing Law
 
 These Terms shall be governed by and construed in accordance with the laws applicable in the jurisdiction where Big Lick Enterprises operates, without regard to conflict-of-law principles.
 
 ---
 
-## 16. Contact Us
+## 17. Contact Us
 
 If you have any questions about these Terms, please contact:
 
